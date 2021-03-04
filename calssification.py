@@ -5,3 +5,4 @@ class Cat:
 
 felix = Cat("ginger", 4)
 print(felix)
+print("hello")
